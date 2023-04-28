@@ -5,9 +5,28 @@ Neste trabalho, você e sua equipe (até três integrantes) deverão experimenta
 O roteiro para a execução do trabalho é apresentado a seguir:
 
 1. Realize o Fork deste repositório ou atualize o seu fork.
+
+![1-fork-github](https://user-images.githubusercontent.com/12356493/235015325-7dfca351-5cf8-4f9f-bdd4-dc7bc4ebbcfd.png)
+
+![2-criar-fork](https://user-images.githubusercontent.com/12356493/235015335-1943952c-6580-4113-9408-99237a348d2e.png)
+
 2. Crie um __milestone__ para o desenvolvimento de validadores de entradas;
     - Associe o __milestone__ as issues criadas;
     - Apresente imagens que comprove a operação.
+
+![1-criar-milestone](https://user-images.githubusercontent.com/12356493/235015441-399b1f22-05df-4be6-85d5-ff96841027ea.png)
+
+![2-Associe-o-milestone-as issues-criadas](https://user-images.githubusercontent.com/12356493/235015453-1e9b94d1-9528-4c03-bdea-8f4f4413a9f4.png)
+
+
+3. Crie um __milestone__ para o desenvolvimento de validadores de entradas;
+    - Associe o __milestone__ as issues criadas;
+    - Apresente imagens que comprove a operação.
+
+![1-imagem-que-comprove-a-criação-das-issues](https://user-images.githubusercontent.com/12356493/235015469-91122f33-9e18-495e-a7a9-518f939c6bb4.png)
+
+![2-imagem-que-comprove-a-atribuicao-das-issues](https://user-images.githubusercontent.com/12356493/235015475-5587d7cf-b07e-4f7b-acbd-ef11a318f5de.png)
+
 
 3. Crie issues para a implementação dos validadores, a partir da issue disponível no repositório.
     - Na issue "Desenvolver validador para entradas" tem a descrição do que precisa ser implementado;
