@@ -2,8 +2,8 @@
 
 function validar_email(email)
 {
-  // escreva seu código aqui
- 
+  const regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  return regex.test(email);
 }
   
 function validar_cep(cep){
