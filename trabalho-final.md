@@ -58,6 +58,8 @@ O roteiro para a execução do trabalho é apresentado a seguir:
 
 ![2-Resolva os conflitos considerando o código que você criou](https://user-images.githubusercontent.com/12356493/235028014-6e8e210d-5ad6-4215-bfad-4ac8dd4beddc.png)
 
+![2-2-Resolva os conflitos considerando o código que você criou](https://user-images.githubusercontent.com/12356493/235029521-11a56d5f-e32f-4350-b579-3707e2b22c05.png)
+
 ![3-Resolva os conflitos considerando o código que você criou](https://user-images.githubusercontent.com/12356493/235028048-d52a6eb6-aa00-4ce3-8154-97a0bda701a4.png)
 
 ![4-Resolva os conflitos considerando o código que você criou](https://user-images.githubusercontent.com/12356493/235028099-9a82d610-e5fc-4d57-8d44-0680704553d6.png)
