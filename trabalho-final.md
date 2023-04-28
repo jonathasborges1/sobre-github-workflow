@@ -64,6 +64,7 @@ O roteiro para a execução do trabalho é apresentado a seguir:
 
 ![4-Resolva os conflitos considerando o código que você criou](https://user-images.githubusercontent.com/12356493/235028099-9a82d610-e5fc-4d57-8d44-0680704553d6.png)
 
+![5-Resolva os conflitos considerando o código que você criou](https://user-images.githubusercontent.com/12356493/235029751-250c8971-1b3f-48a7-8435-d704d6112087.png)
 
 7. Atualize a branch principal no seu computador;
     - Apresente images que comprove a operação
