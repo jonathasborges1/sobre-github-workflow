@@ -26,8 +26,7 @@ O roteiro para a execução do trabalho é apresentado a seguir:
 
 ![2-imagem-que-comprove-a-atribuicao-das-issues](https://user-images.githubusercontent.com/12356493/235015475-5587d7cf-b07e-4f7b-acbd-ef11a318f5de.png)
 
-
-
+![issue_validador_js](https://user-images.githubusercontent.com/5949025/235016500-e4f7dea3-2dc5-49ab-95e5-9dfdceaea8bd.png)
 
 4. Crie a(s) __branch(es)__ para execução das tarefas
     - Instancie localmente a(s) __branch(es)__;
